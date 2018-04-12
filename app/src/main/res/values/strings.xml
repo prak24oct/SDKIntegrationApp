@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SDKIntegrationApp</string>
+    <string name="facebook_app_id">947877748713479</string>
+    <string name="fb_login_protocol_scheme">fb947877748713479</string>
+
+</resources>
